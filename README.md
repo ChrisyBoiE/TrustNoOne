@@ -2,7 +2,7 @@
 
 🔥 **Próbáld ki élőben:** [https://trust-no-one-vert.vercel.app/](https://trust-no-one-vert.vercel.app/)
 
-## Mi ez a projekt? (Bevezető)
+## Mi ez a projekt?
 
 A **Trust No One** egy pörgős, izgalmas, asztali társasjátékok inspirálta "Social Deduction" (közösségi dedukciós) partijáték, amit baráti társaságoknak fejlesztettem. A játékmenet leginkább a *Spyfall* vagy a *Fake Artist* mechanikájára hasonlít, de egyedi csavarokkal!
 
